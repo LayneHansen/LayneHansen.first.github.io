@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .card-text {
     color: black;
     vertical-align: middle;
@@ -6,4 +7,14 @@
 .card-title {
     color: navy;
     font-size: 24px;
+=======
+.card-text {
+    color: black;
+    vertical-align: middle;
+}
+
+.card-title {
+    color: navy;
+    font-size: 24px;
+>>>>>>> 7288b67f549cc0e9b477b4025e0b923043fde3b6
 }
