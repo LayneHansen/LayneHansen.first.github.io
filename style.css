@@ -1,0 +1,39 @@
+#name-card {
+    font-style: italic;
+}
+
+.design {
+    color: navy;
+}
+
+.display {
+    padding: 8px;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: black;
+}
+
+.nav-pills {
+    color: rgb(67, 67, 67);
+}
+
+.card {
+    font-size: 24px;
+    font-style: bold italic;
+    color: rgb(59, 58, 58);
+}
+
+.carousel-item active {
+    background-color: grey;
+}
+
+.carousel-item second {
+    background-color: rgb(73, 70, 70);
+}
+
+.carousel-item third {
+    background-color: rgb(41, 39, 39);
+}
+
