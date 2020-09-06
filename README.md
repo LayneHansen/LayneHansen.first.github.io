@@ -15,6 +15,7 @@ The main page utilizes a carousel effect from Bootstrap. There are button contro
 ###### link 
 https://laynehansen.github.io/
 
+<<<<<<< HEAD
 ###### screenshot 
 C:/Users/Layne/Pictures/main_page_screenshot
 
@@ -39,3 +40,6 @@ Bootstrap is an incredibly powerful tool for beginner developers especially. It 
 #### ***Main page images***
 Thanks to Alvaro Reyes and halacious on unsplash.com.
 
+=======
+Bootstrap is an incredibly powerful tool for beginner developers especially. It allows the developing developer to see the outcome, but also the code that lies behind it. This is very helpful, especially for visual learners. I've also learned that experimentation is important. It helps you learn how to lay out your code in a clean and intuitive way.
+>>>>>>> 3a79006b033dd5eeb271bd05d6dc3d855c2c7b71
