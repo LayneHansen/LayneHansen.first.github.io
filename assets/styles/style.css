@@ -1,6 +1,14 @@
 
 /* Name Card on top of pages */
 
+.name-card {
+    color: rgb(199, 69, 69);
+    border: solid ;
+    background-image: url('../images/green_wood.jpg');
+    /* font-family: sans-serif;
+    margin: auto; */
+}
+
 .card {
     position: relative;
     display: -ms-flexbox;
@@ -27,11 +35,6 @@
     text-align: center;
 }
 
-#name-main {
-    color: black;
-    font: fugaz one;
-    margin: auto;
-}
 
 h1 {
     color: black;
@@ -112,3 +115,4 @@ h1 {
 #wwy-title {
     color: rgb(68, 165, 133);
 }
+
