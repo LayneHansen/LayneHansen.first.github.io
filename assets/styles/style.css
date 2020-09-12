@@ -1,11 +1,21 @@
+
+/* Name Card on top of pages */
+
 #name-card {
-    font-style: italic;
+    background-color: #66CDAA;
 }
 
 #name-main {
     color: black;
+    font: fugaz one;
+    margin: auto;
 }
 
+h1 {
+    color: black;
+}
+
+/* Text on slider pictures */
 .design {
     color: black;
 }
@@ -29,6 +39,10 @@
     color: rgb(59, 58, 58);
 }
 
+.carousel-caption {
+    color: black;
+}
+
 .carousel-item active {
     background-color: grey;
 }
@@ -40,6 +54,8 @@
 .carousel-item third {
     background-color: rgb(41, 39, 39);
 }
+
+/* Portfolio page links */
 
 #streaming {
     color: #1f74b6;
