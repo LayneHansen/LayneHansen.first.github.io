@@ -1,12 +1,21 @@
 
 /* Name Card on top of pages */
 
-.name-card {
-    color: rgb(199, 69, 69);
-    border: solid ;
+#name-card {
+    color: white;
+    /* font-family: 'Piedra', cursive; */
+    font-family: 'East Sea Dokdo', cursive;
+    font-weight: 700;
+    font-size: 96px;
+    letter-spacing: 0.1em;
+    line-height: normal;
+    margin-left: 0;
+    margin-right: 0;
+    height: auto;
+    width: auto;
+    padding-top: 25px;
+    vertical-align: middle;
     background-image: url('../images/green_wood.jpg');
-    /* font-family: sans-serif;
-    margin: auto; */
 }
 
 .card {
@@ -19,8 +28,9 @@
     word-wrap: break-word;
     background-color: #fff;
     background-clip: border-box;
-    border: 3px solid rgba(0,0,0,.125);
+    border: 1px solid black;
     border-radius: .25rem;
+    color: white;
 }
 
 .carousel-caption {
@@ -33,11 +43,6 @@
     padding-bottom: 20px;
     color: rgb(30, 71, 25);
     text-align: center;
-}
-
-
-h1 {
-    color: black;
 }
 
 /* Text on slider pictures */
