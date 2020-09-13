@@ -16,6 +16,7 @@
     padding-top: 25px;
     vertical-align: middle;
     background-image: url('../images/green_wood.jpg');
+    background-size: cover;
 }
 
 .card {
@@ -45,6 +46,10 @@
     text-align: center;
 }
 
+#back-end {
+    color: white:
+}
+
 /* Text on slider pictures */
 .design {
     color: black;
@@ -59,8 +64,10 @@
     color: black;
 }
 
-.nav-pills {
+.nav {
     color: rgb(67, 67, 67);
+    border: solid 1px black;
+    border-radius: .25rem;
 }
 
 .card {
@@ -121,3 +128,8 @@
     color: rgb(68, 165, 133);
 }
 
+/* profile stylings */
+
+#profile-card {
+    margin-bottom: auto;
+}
