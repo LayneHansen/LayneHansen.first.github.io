@@ -133,12 +133,30 @@
 #profile-card {
     margin-bottom: 0px;
     border: solid 1 px black;
+    background-color: rgb(184, 212, 202);
+    padding-bottom: 15px;
+}
+
+#profile-img {
+    padding-top: 45px;
+    padding-left: 30px;
+    border-radius: 0.25 rem;
+}
+
+#profile-text {
+    padding-left: 0px;
 }
 
 #resume {
-    padding-left: 240px;
+    padding-left: 0px;
 }
 
 #resume-title {
-    padding-left: 30px;
+    padding-left: 32px;
+}
+
+/* contact stylings */
+
+#contact-card {
+    background-color: rgb(184, 212, 202);
 }
