@@ -1,91 +1,88 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>LDH Profile</title>
 
-        <!-- font for main card-->
-        <link href="https://fonts.googleapis.com/css2?family=Piedra&display=swap" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap" rel="stylesheet">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LDH Profile</title>
 
-        <!-- Bootstrap CSS -->
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-        <link rel="stylesheet" href="./assets/styles/style.css">
+    <!-- font for main card-->
+    <link href="https://fonts.googleapis.com/css2?family=Piedra&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap" rel="stylesheet">
 
-    </head>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" href="./assets/styles/style.css">
 
-    <body>
-    
-        <div class="container">
+</head>
 
-            <div class="row">
+<body>
 
-                <div class="col-md-12">
+    <div class="container">
 
-                    <div class="card">
-                        <div class="card-body bg-light" id="name-card">
-                            <h1 class="display-6">LAYNE D. HANSEN</h1>
-                        </div>
+        <div class="row">
+
+            <div class="col-md-12">
+
+                <div class="card">
+                    <div class="card-body bg-light" id="name-card">
+                        <h1 class="display-6">LAYNE D. HANSEN</h1>
                     </div>
-
                 </div>
 
-            </div>
-
-            <div class="row">
-
-                <div class="col-md-12">
-            
-                    <div class="card mb-3" id="profile-card">
-                        
-                        <div class="row">
-                            
-                            <div class="col-md-4" id="profile-img">
-                                <img src="./assets/images/Layne_portrait.jpg" class="card-img" alt="Profile picture">
-                            </div>
-                            
-                            <div class="col-md-8">
-                                <div class="card-body" id="profile-text">
-                                    <h3 class="card-title">About Me</h3>
-                                    <p class="card-text">I am a full-stack developer in training who loves to bring design and functionality to the user's experience. My passions are web development, my family, movies and TV, reading and writing, and history and politics.</p>
-                                </div>
-                            <div id="resume">
-                                <h5 id="resume-title">Resume</h5>
-                                <a href="./assets/documents/Layne Grid Resume.pdf">
-                                    <img src="./assets/images/resume_screenshot.png" height="176" width="136">
-                                </a>
-                            </div>
-
-                            </div>
-
-                        </div>        
-                    
-                    </div>
-                
-                </div>
-            
-            </div>
-            
-            <div class="row">
-
-                <div class="col-md-12">
-    
-                    <nav class="nav nav-pills flex-column flex-sm-row nav-light bg-light">
-                        
-                        <a class="flex-sm-fill text-sm-center nav-link text-muted" href="./index.html">HOME</a>
-                        <a class="flex-sm-fill text-sm-center nav-link text-muted" href="./contact.html">CONTACT</a>
-                        <a class="flex-sm-fill text-sm-center nav-link text-muted" href="./portfolio.html" tabindex="-1"
-                            aria-disabled="true">PORTFOLIO</a>
-                    
-                    </nav>
-    
-                </div>
-    
             </div>
 
         </div>
 
-    </body>
+        <div class="jumbotron">
+
+            <div class="row">
+
+                <div class="col-md-4" id="profile-img">
+                    <img src="./assets/images/Layne_portrait.jpg" class="card-img" alt="Profile picture">
+                </div>
+
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h3 class="card-title" id="profile-title">ABOUT ME</h3>
+                        <p class="card-text" id="profile-text">I am a full-stack developer in training who
+                            loves to bring design and functionality to the user's experience. My passions
+                            are web development, my family, movies and TV, reading and writing, and history
+                            and politics.</p>
+                    </div>
+
+                    <div id="resume">
+                        <h5 id="resume-title">Resume</h5>
+                        <a href="./assets/documents/Layne Grid Resume.pdf">
+                            <img src="./assets/images/resume_screenshot.png" height="176" width="136">
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="row">
+
+            <div class="col-md-12">
+
+                <nav class="nav nav-pills flex-column flex-sm-row nav-light bg-light">
+
+                    <a class="flex-sm-fill text-sm-center nav-link text-muted" href="./index.html">HOME</a>
+                    <a class="flex-sm-fill text-sm-center nav-link text-muted" href="./contact.html">CONTACT</a>
+                    <a class="flex-sm-fill text-sm-center nav-link text-muted" href="./portfolio.html" tabindex="-1"
+                        aria-disabled="true">PORTFOLIO</a>
+
+                </nav>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
 
 </html>

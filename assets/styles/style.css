@@ -94,6 +94,10 @@
 
 /* Portfolio page links */
 
+.jumbotron {
+    margin-bottom: 0px;
+}
+
 #streaming {
     color: #1f74b6;
     font-weight: bold;
@@ -138,21 +142,34 @@
 }
 
 #profile-img {
-    padding-top: 45px;
-    padding-left: 30px;
+    padding-top: 15px;
+    padding-left: 15px;
     border-radius: 0.25 rem;
+    height: 100%;
+}
+
+#profile-title {
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
 }
 
 #profile-text {
     padding-left: 0px;
+    font-family: sans-serif;
+    font-size: 20px;
 }
 
 #resume {
-    padding-left: 0px;
+    padding-left: 15px;
 }
 
 #resume-title {
-    padding-left: 32px;
+    padding-left: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
 }
 
 /* contact stylings */
