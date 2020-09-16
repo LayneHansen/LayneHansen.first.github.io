@@ -177,3 +177,26 @@
 #contact-card {
     background-color: rgb(184, 212, 202);
 }
+
+/* media queries */
+
+@media screen and (max-width: 422.9px) { 
+    
+    span {
+        font-size: 64px;
+        line-height: 24px;
+    }
+
+    #resume {
+        align-content: center;
+    }
+}
+
+
+@media screen and (max-width: 331.9) {
+
+    span {
+        font-size: 40px;
+        line-height: 18px;
+    }
+}
