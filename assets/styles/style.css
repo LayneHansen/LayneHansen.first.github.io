@@ -98,6 +98,14 @@
     margin-bottom: 0px;
 }
 
+#right-column {
+    margin-top: 0px;
+}
+
+.mr-3 {
+    border: black 1px solid;
+}
+
 #streaming {
     color: #1f74b6;
     font-weight: bold;
