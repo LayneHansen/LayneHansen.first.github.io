@@ -65,7 +65,7 @@ The portfolio page is essentially a placeholder at this point. It even utilizes 
 https://laynehansen.github.io/portfolio.html
 
 #### ***screenshot***
-![portfolio](./assets/images/portfolio_page_screenshot.png)
+![portfolio](./assets/images/portfolio_page_screenshot_2.png)
 
 ----
 
