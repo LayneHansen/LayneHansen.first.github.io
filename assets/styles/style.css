@@ -120,6 +120,11 @@
     font: roboto;
 }
 
+#tech-logos {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
 .card-title {
     color: black;
 }
