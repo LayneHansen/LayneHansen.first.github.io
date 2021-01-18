@@ -11,3 +11,8 @@
 #profile-img {
     border: solid whitesmoke 3px;
 }
+
+.jumbotron {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
