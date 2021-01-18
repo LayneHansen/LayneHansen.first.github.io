@@ -29,6 +29,7 @@
     word-wrap: break-word;
     background-color: #fff;
     background-clip: border-box;
+    background-image: url('../images/brushed-alum.png');
     border: 1px solid black;
     border-radius: .25rem;
     color: white;
@@ -173,6 +174,10 @@
     padding-left: 0px;
     font-family: sans-serif;
     font-size: 20px;
+}
+
+#resume-container {
+    padding-top: 10px;
 }
 
 #resume {
