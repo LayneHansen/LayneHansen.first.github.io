@@ -13,7 +13,7 @@
     margin-right: 0;
     height: auto;
     width: auto;
-    padding-top: 25px;
+    padding: 25px;
     vertical-align: middle;
     background-image: url('../images/green_wood.jpg');
     background-size: cover;
@@ -68,7 +68,7 @@
 
 .nav {
     color: rgb(67, 67, 67);
-    border: solid 2px black;
+    border: solid 1px black;
     border-radius: .25rem;
 }
 
@@ -95,6 +95,12 @@
 }
 
 /* Portfolio page links */
+
+#portfolio-title {
+    color: black;
+    font-size: 30px;
+    font-family: 'Archivo Black', sans-serif;
+}
 
 .jumbotron {
     padding-top: 25px;
