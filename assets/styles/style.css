@@ -100,10 +100,29 @@
 
 #contact-title {
     text-align: center;
+        color: white;
+        text-shadow: 1px 1px 2px black, 0 0 25px rgb(62, 151, 157), 0 0 5px rgb(27, 87, 92);
 }
 
 #contact-info {
     align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#contact-info-name {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-style: italic;
+}
+
+#contact-info-email {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+#contact-info-phone {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
 }
 
 /* Portfolio page links */
@@ -186,6 +205,8 @@
     #resume {
         align-content: center;
     }
+
+
 }
 
 
