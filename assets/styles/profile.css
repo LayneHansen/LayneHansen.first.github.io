@@ -44,6 +44,8 @@
 
 #profile-img {
     padding-top: 15px;
+    padding-bottom: 15px;
+    border: solid rgb(62, 151, 157) 5px;
 }
 
 #resume-container {
