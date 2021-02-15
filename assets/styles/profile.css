@@ -37,15 +37,16 @@
 }
 
 #profile-title {
-    color: black;
     font-size: 30px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Archivo Black', sans-serif;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(62, 151, 157), 0 0 5px rgb(27, 87, 92)
 }
 
 #profile-img {
     padding-top: 15px;
     padding-bottom: 15px;
-    border: solid rgb(62, 151, 157) 5px;
+    border: solid rgb(62, 151, 157) 4px;
 }
 
 #resume-container {

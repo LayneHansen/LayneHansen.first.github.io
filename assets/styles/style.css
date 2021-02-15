@@ -101,6 +101,7 @@
 #contact-title {
     text-align: center;
     color: white;
+    font-family: 'Archivo Black', sans-serif;
     text-shadow: 1px 1px 2px black, 0 0 25px rgb(62, 151, 157), 0 0 5px rgb(27, 87, 92);
 }
 
@@ -112,6 +113,7 @@
 #contact-info-name {
     font-family: 'Montserrat', sans-serif;
     font-weight: 800;
+    color: rgb(27, 87, 92)
     font-style: italic;
 }
 
@@ -128,9 +130,11 @@
 /* Portfolio page links */
 
 #portfolio-title {
-    color: black;
     font-size: 30px;
     font-family: 'Archivo Black', sans-serif;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(62, 151, 157), 0 0 5px rgb(27, 87, 92)
+
 }
 
 .jumbotron {
