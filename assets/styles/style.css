@@ -62,11 +62,11 @@
 
 .nav-link {
     font-size: 24px;
-    color: black;
+    color: white;
 }
 
 .nav {
-    color: rgb(67, 67, 67);
+    color: white;
     border: solid 1px black;
 }
 
