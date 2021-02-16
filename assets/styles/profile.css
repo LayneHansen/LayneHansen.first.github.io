@@ -36,6 +36,13 @@
     padding-bottom: 25px;
 }
 
+#profile-background {
+    background-image: url('../images/teal-background.jpg');
+    background-size: cover;
+    object-fit: cover;
+    width: 100%;
+}
+
 #profile-title {
     font-size: 30px;
     font-family: 'Archivo Black', sans-serif;
