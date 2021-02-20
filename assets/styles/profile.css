@@ -36,6 +36,10 @@
     padding-bottom: 25px;
 }
 
+#about-card-body {
+    padding-bottom: 0px;
+}
+
 #profile-background {
     background-image: url('../images/teal-background.jpg');
     background-size: cover;
@@ -105,5 +109,31 @@
 .jumbotron {
     padding-top: 25px;
     padding-bottom: 25px;
+    margin-bottom: 0px;
+}
+
+#ed-card-body {
+    padding: 5px;
+    opacity: 100%;
+}
+
+#logo-box {
+    align-content: center;
+    vertical-align: middle;
+}
+
+#degree {
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+#university {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+#graduated {
+    font-size: 20px;
     margin-bottom: 0px;
 }
